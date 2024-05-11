@@ -1,6 +1,6 @@
 # I'm bai  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭 I am currently pursuing a postgraduate degree at Xi'an University of Electronic Science and Technology
+- 🔭 I am currently pursuing a postgraduate degree at **XIDIAN University**
 - 🌱 I’m currently learning **java**
 - 👯 Currently studying in **Xi'an, China**
 - 🤔 I love **Reading, Watching movies**
